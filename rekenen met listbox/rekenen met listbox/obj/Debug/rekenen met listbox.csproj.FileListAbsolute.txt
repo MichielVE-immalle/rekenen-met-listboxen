@@ -1,0 +1,14 @@
+c:\users\michiel\documents\visual studio 2015\Projects\rekenen met listbox\rekenen met listbox\bin\Debug\rekenen met listbox.exe.config
+c:\users\michiel\documents\visual studio 2015\Projects\rekenen met listbox\rekenen met listbox\bin\Debug\rekenen met listbox.exe
+c:\users\michiel\documents\visual studio 2015\Projects\rekenen met listbox\rekenen met listbox\bin\Debug\rekenen met listbox.pdb
+c:\users\michiel\documents\visual studio 2015\Projects\rekenen met listbox\rekenen met listbox\obj\Debug\rekenen met listbox.csprojResolveAssemblyReference.cache
+c:\users\michiel\documents\visual studio 2015\Projects\rekenen met listbox\rekenen met listbox\obj\Debug\MainWindow.g.cs
+c:\users\michiel\documents\visual studio 2015\Projects\rekenen met listbox\rekenen met listbox\obj\Debug\App.g.cs
+c:\users\michiel\documents\visual studio 2015\Projects\rekenen met listbox\rekenen met listbox\obj\Debug\rekenen met listbox_MarkupCompile.cache
+c:\users\michiel\documents\visual studio 2015\Projects\rekenen met listbox\rekenen met listbox\obj\Debug\rekenen met listbox_MarkupCompile.lref
+c:\users\michiel\documents\visual studio 2015\Projects\rekenen met listbox\rekenen met listbox\obj\Debug\MainWindow.baml
+c:\users\michiel\documents\visual studio 2015\Projects\rekenen met listbox\rekenen met listbox\obj\Debug\rekenen met listbox.g.resources
+c:\users\michiel\documents\visual studio 2015\Projects\rekenen met listbox\rekenen met listbox\obj\Debug\rekenen_met_listbox.Properties.Resources.resources
+c:\users\michiel\documents\visual studio 2015\Projects\rekenen met listbox\rekenen met listbox\obj\Debug\rekenen met listbox.csproj.GenerateResource.Cache
+c:\users\michiel\documents\visual studio 2015\Projects\rekenen met listbox\rekenen met listbox\obj\Debug\rekenen met listbox.exe
+c:\users\michiel\documents\visual studio 2015\Projects\rekenen met listbox\rekenen met listbox\obj\Debug\rekenen met listbox.pdb

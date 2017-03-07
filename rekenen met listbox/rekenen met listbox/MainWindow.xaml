@@ -1,0 +1,19 @@
+﻿<Window x:Class="rekenen_met_listbox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:rekenen_met_listbox"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBox x:Name="addTextBox" HorizontalAlignment="Left" Height="23" Margin="10,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="addButton" Content="Add" HorizontalAlignment="Left" Margin="10,38,0,0" VerticalAlignment="Top" Width="75" Click="addButton_Click"/>
+        <ListBox x:Name="numberListBox" HorizontalAlignment="Left" Height="179" Margin="150,10,0,0" VerticalAlignment="Top" Width="117"/>
+        <TextBox x:Name="largestTextBox" HorizontalAlignment="Left" Height="23" Margin="295,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="largestButton" Content="Largest" HorizontalAlignment="Left" Margin="295,38,0,0" VerticalAlignment="Top" Width="75" Click="largestButton_Click"/>
+        <TextBox x:Name="sumTextBox" HorizontalAlignment="Left" Height="23" Margin="295,115,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="sumButton" Content="Sum" HorizontalAlignment="Left" Margin="295,143,0,0" VerticalAlignment="Top" Width="75" Click="sumButton_Click"/>
+
+    </Grid>
+</Window>
